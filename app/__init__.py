@@ -23,6 +23,7 @@ def create_app(mode):
 
     app.register_blueprint(authentication_blueprint)
     app.register_blueprint(main_blueprint)
+    app.config['SECRET_KEY'] = 'sirinisiri'
 
     login_manager.init_app(app)
     db.init_app(app)
