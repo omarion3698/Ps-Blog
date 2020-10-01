@@ -1,27 +1,24 @@
 # Ps-Blog
-This is a flask application that allows writers to post blogs, edit and delete blogs. It also allows users who have signed up to comment on the blogs that has been posted by the writer in the application. It also allows a person who is subscribed to the application to receive email every time a new blog is posted by a writer.
-
-# pitches-web
 
 ## Author
 Omar Abdirahman Hussein
 
 ## Description
-This is a flask application that allows users to post one minute pitches and also allows other users who have signed up to comment and upvote or downvote a pitch. It also allows a person to signup to be able to access the functionalities of the application.
+This is a flask application that allows writers to post blogs, edit and delete blogs. It also allows users who have signed up to comment on the blogs that has been posted by the writer in the application. It also allows a person who is subscribed to the application to receive email every time a new blog is posted by a writer.
 
 ## User Story
 
-1. Comment on the different pitches posted py other uses.
+1. A user can view the most recent posts.
 
-2. See the pitches posted by other uses.
+2. View and comment the blog posts on the site.
 
-3. Vote on s pitch they have viwed by giving it a upvote or a downvote.
+3. A user should an email alert when a new post is made by joining a subscription.
 
 4. Register to be allowed to log in to the application.
 
-5. View pitches from the different categories.
+5. A user sees random quotes on the site.
 
-6. Submit a pitch to a specific category of their choice.
+6. A writer can create a blog from the application and update or delete blogs I have created.
 
 ## App Installation
 
@@ -29,11 +26,11 @@ To get the code..
 
 1. Cloning the repository:
 
-    https://github.com/omarion3698/pitches-web.git
+    https://github.com/omarion3698/Ps-Blog.git
 
 2. Move to the folder and install requirements
 
-    ###### cd pitches-web
+    ###### cd Ps-Blog
 
     ###### pip install -r requirements.txt
 
@@ -64,4 +61,4 @@ If you have any question or contributions, please email me at [omaribinbakarivic
 
 ## License
 * MIT License:
-* Copyright (c) 2020 Omar Abdirahman
+* Copyright (c) 2020 Omar Hussein
